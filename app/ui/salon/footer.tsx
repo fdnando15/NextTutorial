@@ -1,8 +1,6 @@
 import Link from "next/link";
 import {
   MapPinIcon,
-  PhoneIcon,
-  EnvelopeIcon,
   ClockIcon,
 } from "@heroicons/react/24/outline";
 

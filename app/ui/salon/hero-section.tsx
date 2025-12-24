@@ -93,7 +93,7 @@ export default function HeroSection() {
         {/* Scroll Down Indicator */}
         <button
           onClick={scrollToContent}
-          className="absolute bottom-8 left-1/2 transform -translate-x-1/2 animate-bounce"
+          className="absolute bottom-8 left-1/2 transform -translate-x-1/2 animate-bounce z-20 cursor-pointer hover:opacity-80 transition-opacity"
           aria-label="Scroll down"
         >
           <ChevronDownIcon className="h-8 w-8 text-salon-red" />
@@ -101,7 +101,7 @@ export default function HeroSection() {
       </div>
 
       {/* Bottom fade */}
-      <div className="absolute bottom-0 left-0 right-0 h-32 bg-gradient-to-t from-salon-black to-transparent z-10" />
+      <div className="absolute bottom-0 left-0 right-0 h-32 bg-gradient-to-t from-salon-black to-transparent z-0 pointer-events-none" />
     </section>
   );
 }
