@@ -54,6 +54,7 @@ export default function VideoCard({ videoSrc, title, index }: VideoCardProps) {
   return (
     <div
       className="group relative aspect-[9/16] rounded-2xl overflow-hidden cursor-pointer transform transition-all duration-500 hover:scale-105 hover:shadow-2xl hover:shadow-salon-red/30"
+      // Event Listeners
       onMouseEnter={handleMouseEnter}
       onMouseLeave={handleMouseLeave}
       onClick={handleClick}
