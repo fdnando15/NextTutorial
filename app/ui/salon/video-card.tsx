@@ -62,7 +62,7 @@ export default function VideoCard({ videoSrc, title, index }: VideoCardProps) {
       {/* Video */}
       <video
         ref={videoRef}
-        className="w-full h-full object-cover"
+        className="w-full h-full object-cover blur-md"
         muted
         playsInline
         loop

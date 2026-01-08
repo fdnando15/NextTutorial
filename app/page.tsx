@@ -18,7 +18,10 @@ export default function Page() {
             Te enseño qué corte usar según tu rostro 🚀
           </p>
           <p className="text-lg text-salon-gray-light">
-            Próximamente: Servicios, Galería, Redes Sociales...
+            Web en desarrollo, próximamente más contenido!
+          </p>
+          <p className="text-sm text-salon-gray-light">
+            Imágenes y vídeos borrosos por privacidad
           </p>
         </div>
       </section>

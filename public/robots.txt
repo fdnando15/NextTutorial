@@ -1,0 +1,28 @@
+# Bloquear todos los crawlers - Versión DEMO
+# Esta es una versión de prueba no oficial
+# No indexar en buscadores
+
+User-agent: *
+Disallow: /
+
+# Prevenir indexación específica
+Noindex: /
+
+# Bloquear bots específicos
+User-agent: Googlebot
+Disallow: /
+
+User-agent: Bingbot
+Disallow: /
+
+User-agent: Slurp
+Disallow: /
+
+User-agent: DuckDuckBot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
