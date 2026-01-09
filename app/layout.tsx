@@ -1,9 +1,10 @@
-import '@/app/ui/global.css';
-import type { Metadata } from 'next';
+import "@/app/ui/global.css";
+import type { Metadata } from "next";
+import { Analytics } from "@vercel/analytics/next";
 
 export const metadata: Metadata = {
-  title: 'Cariccio Hair Salon - Demo',
-  description: 'Versión de prueba - No oficial',
+  title: "Cariccio Hair Salon - Demo",
+  description: "Versión de prueba - No oficial",
   robots: {
     index: false,
     follow: false,
@@ -16,7 +17,11 @@ export const metadata: Metadata = {
   },
 };
 
-export default function RootLayout({children,}: {children: React.ReactNode;}) {
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   return (
     <html lang="es">
       <head>
