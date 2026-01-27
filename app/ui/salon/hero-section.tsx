@@ -20,7 +20,7 @@ export default function HeroSection() {
           loop
           muted
           playsInline
-          className="w-full h-full object-cover blur-md"
+          className="w-full h-full object-cover blur-xl"
         >
           <source src="/video_barberia_final.mp4" type="video/mp4" />
           Your browser does not support the video tag.

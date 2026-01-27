@@ -11,6 +11,7 @@ const navLinks = [
   { name: "Servicios", href: "/services" },
   { name: "Galería", href: "/gallery" },
   { name: "Tienda", href: "/shop" },
+  { name: "Contacto", href: "/contact" },
 ];
 
 export default function Navbar() {
