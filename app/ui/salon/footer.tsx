@@ -53,47 +53,6 @@ export default function Footer() {
             </div>
           </div>
 
-          {/* Quick Links */}
-          <div>
-            <h4 className="text-lg font-semibold text-salon-white mb-4">
-              Enlaces Rápidos
-            </h4>
-            <ul className="space-y-2">
-              <li>
-                <Link
-                  href="/contact"
-                  className="text-salon-gray-light hover:text-salon-red transition-colors duration-300"
-                >
-                  Contacto
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/services"
-                  className="text-salon-gray-light hover:text-salon-red transition-colors duration-300"
-                >
-                  Servicios
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/gallery"
-                  className="text-salon-gray-light hover:text-salon-red transition-colors duration-300"
-                >
-                  Galería
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/shop"
-                  className="text-salon-gray-light hover:text-salon-red transition-colors duration-300"
-                >
-                  Tienda
-                </Link>
-              </li>
-            </ul>
-          </div>
-
           {/* Contact Info */}
           <div>
             <h4 className="text-lg font-semibold text-salon-white mb-4">
@@ -178,20 +137,6 @@ export default function Footer() {
             <p className="text-salon-gray-light text-sm">
               © {currentYear} barberíasvq Hair Salon. Web en desarrollo.
             </p>
-            <div className="flex space-x-6 text-sm">
-              <Link
-                href="/privacy"
-                className="text-salon-gray-light hover:text-salon-red transition-colors duration-300"
-              >
-                Política de Privacidad
-              </Link>
-              <Link
-                href="/terms"
-                className="text-salon-gray-light hover:text-salon-red transition-colors duration-300"
-              >
-                Términos de Servicio
-              </Link>
-            </div>
           </div>
         </div>
       </div>
