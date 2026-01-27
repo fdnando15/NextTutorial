@@ -12,7 +12,7 @@ export default function Page() {
       <section className="min-h-screen bg-salon-black text-salon-white flex items-center justify-center">
         <div className="text-center max-w-4xl mx-auto px-4">
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            Bienvenido a <span className="text-salon-red">Cariccio</span>
+            Bienvenido a <span className="text-salon-red">barberíasvq</span>
           </h2>
           <p className="text-xl text-salon-gray-light mb-6">
             Te enseño qué corte usar según tu rostro 🚀

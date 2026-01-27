@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import { Analytics } from "@vercel/analytics/next";
 
 export const metadata: Metadata = {
-  title: "Cariccio Hair Salon - Demo",
+  title: "barberíasvq Hair Salon - Demo",
   description: "Versión de prueba - No oficial",
   robots: {
     index: false,

@@ -45,7 +45,7 @@ export default function Navbar() {
             href="/"
             className="text-2xl font-bold text-salon-white hover:text-salon-red transition-colors duration-300"
           >
-            <span className="text-salon-red">CARICCIO HAIR</span> SALON
+            <span className="text-salon-red">barberíasvq HAIR</span> SALON
           </Link>
 
           {/* Desktop Navigation */}
@@ -71,7 +71,7 @@ export default function Navbar() {
 
             {/* CTA Button */}
             <a
-              href="https://booksy.com/es-es/15534_cariccio-hair-salon_barberia_30001_las-monjas"
+              href="https://booksy.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-2.5 bg-salon-red text-salon-white font-semibold rounded-full hover:bg-salon-red-dark transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-salon-red/50"
@@ -117,7 +117,7 @@ export default function Navbar() {
             </Link>
           ))}
           <a
-            href="https://booksy.com/es-es/15534_cariccio-hair-salon_barberia_30001_las-monjas"
+            href="https://booksy.com/"
             target="_blank"
             rel="noopener noreferrer"
             onClick={() => setIsOpen(false)}

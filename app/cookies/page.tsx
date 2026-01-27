@@ -325,8 +325,8 @@ export default function CookiesPage() {
                   Desde su Navegador
                 </h3>
                 <p className="text-salon-gray-light mb-4 text-sm">
-                  Puede bloquear o eliminar cookies desde la configuración de
-                  su navegador:
+                  Puede bloquear o eliminar cookies desde la configuración de su
+                  navegador:
                 </p>
                 <ul className="space-y-2 text-salon-gray-light text-sm">
                   <li className="flex items-start gap-2">
@@ -414,12 +414,8 @@ export default function CookiesPage() {
                   <li>
                     Google Maps no se mostrará correctamente (requiere cookies)
                   </li>
-                  <li>
-                    Sus preferencias no se guardarán entre sesiones
-                  </li>
-                  <li>
-                    La experiencia de navegación puede verse afectada
-                  </li>
+                  <li>Sus preferencias no se guardarán entre sesiones</li>
+                  <li>La experiencia de navegación puede verse afectada</li>
                 </ul>
                 <p className="text-salon-gray-light mt-4 text-sm">
                   Las cookies técnicas esenciales no pueden desactivarse ya que
@@ -500,7 +496,7 @@ export default function CookiesPage() {
                 Contacta con nosotros para resolver cualquier consulta
               </p>
               <a
-                href="mailto:cariccio@gmail.com"
+                href="mailto:barberíasvq@gmail.com"
                 className="inline-flex items-center gap-2 px-8 py-4 bg-salon-red text-salon-white font-semibold rounded-full hover:bg-salon-red-dark transition-all duration-300 transform hover:scale-105"
               >
                 Contactar

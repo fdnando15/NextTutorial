@@ -58,7 +58,7 @@ export default function HeroSection() {
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 sm:gap-6">
             <a
-              href="https://booksy.com/es-es/15534_cariccio-hair-salon_barberia_30001_las-monjas"
+              href="https://booksy.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="group px-8 py-4 bg-salon-red text-salon-white font-semibold rounded-full hover:bg-salon-red-dark transition-all duration-300 transform hover:scale-105 shadow-2xl hover:shadow-salon-red/50 w-full sm:w-auto text-center"

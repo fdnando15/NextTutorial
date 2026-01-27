@@ -29,7 +29,7 @@ const services: Service[] = [
     description: "Servicio completo de corte y arreglo de barba.",
   },
   {
-    name: "Corte Cariccio",
+    name: "Corte barberíasvq",
     price: "16€",
     duration: "30 min",
     description:
@@ -143,7 +143,7 @@ export default function ServicesPage() {
           {/* CTA Button */}
           <div className="text-center">
             <Link
-              href="https://booksy.com/es-es/15534_cariccio-hair-salon_barberia_30001_las-monjas"
+              href="https://booksy.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block bg-salon-red text-white px-12 py-4 rounded-lg text-xl font-bold hover:bg-red-700 transition-colors duration-300 shadow-lg hover:shadow-xl"

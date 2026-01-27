@@ -53,12 +53,12 @@ export default function PrivacyPage() {
                   [PENDIENTE]
                 </p>
                 <p className="mb-2">
-                  <strong className="text-salon-white">Domicilio:</strong>{" "}
-                  Calle Fuente de la Salud, 101, 41600, Arahal, Sevilla
+                  <strong className="text-salon-white">Domicilio:</strong> Calle
+                  Calle San Roque, 41600, Arahal, Sevilla
                 </p>
                 <p className="mb-2">
                   <strong className="text-salon-white">Email:</strong>{" "}
-                  cariccio@gmail.com
+                  barberíasvq@gmail.com
                 </p>
                 <p>
                   <strong className="text-salon-white">Teléfono:</strong> +34
@@ -147,13 +147,11 @@ export default function PrivacyPage() {
                   </strong>{" "}
                   Para el alojamiento de la web
                 </li>
-                <li>
-                  Organismos públicos cuando exista obligación legal
-                </li>
+                <li>Organismos públicos cuando exista obligación legal</li>
               </ul>
               <p className="text-salon-gray-light mt-4">
-                No se realizan transferencias internacionales de datos fuera
-                del Espacio Económico Europeo, salvo las necesarias para los
+                No se realizan transferencias internacionales de datos fuera del
+                Espacio Económico Europeo, salvo las necesarias para los
                 servicios mencionados que cumplen con las garantías del RGPD.
               </p>
             </section>
@@ -244,10 +242,10 @@ export default function PrivacyPage() {
                 <p className="text-salon-gray-light mb-2">
                   Envíe un correo a{" "}
                   <a
-                    href="mailto:cariccio@gmail.com"
+                    href="mailto:barberíasvq@gmail.com"
                     className="text-salon-red hover:underline"
                   >
-                    cariccio@gmail.com
+                    barberíasvq@gmail.com
                   </a>{" "}
                   indicando:
                 </p>
@@ -291,8 +289,8 @@ export default function PrivacyPage() {
               </h2>
               <p className="text-salon-gray-light">
                 Los servicios de esta web están dirigidos a mayores de 14 años.
-                Si es menor de 14 años, necesita el consentimiento de sus
-                padres o tutores para proporcionar datos personales. Los videos
+                Si es menor de 14 años, necesita el consentimiento de sus padres
+                o tutores para proporcionar datos personales. Los videos
                 mostrados en la galería están desenfocados para proteger la
                 identidad de los menores que aparecen en ellos.
               </p>
@@ -306,8 +304,8 @@ export default function PrivacyPage() {
               <p className="text-salon-gray-light">
                 Hemos adoptado medidas técnicas y organizativas apropiadas para
                 proteger sus datos personales contra acceso no autorizado,
-                pérdida, destrucción o alteración. Utilizamos conexiones
-                seguras (HTTPS) y cumplimos con los estándares de la industria.
+                pérdida, destrucción o alteración. Utilizamos conexiones seguras
+                (HTTPS) y cumplimos con los estándares de la industria.
               </p>
             </section>
 
@@ -334,7 +332,7 @@ export default function PrivacyPage() {
                 tratamiento de tus datos
               </p>
               <a
-                href="mailto:cariccio@gmail.com"
+                href="mailto:barberíasvq@gmail.com"
                 className="inline-flex items-center gap-2 px-8 py-4 bg-salon-red text-salon-white font-semibold rounded-full hover:bg-salon-red-dark transition-all duration-300 transform hover:scale-105"
               >
                 Contactar
