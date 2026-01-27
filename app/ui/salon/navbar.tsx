@@ -11,7 +11,6 @@ const navLinks = [
   { name: "Servicios", href: "/services" },
   { name: "Galería", href: "/gallery" },
   { name: "Tienda", href: "/shop" },
-  { name: "Contacto", href: "/contact" },
 ];
 
 export default function Navbar() {
@@ -45,7 +44,7 @@ export default function Navbar() {
             href="/"
             className="text-2xl font-bold text-salon-white hover:text-salon-red transition-colors duration-300"
           >
-            <span className="text-salon-red">barberíasvq HAIR</span> SALON
+            <span className="text-salon-red"> HAIR</span> SALON
           </Link>
 
           {/* Desktop Navigation */}
